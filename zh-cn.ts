@@ -2033,17 +2033,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="893"/>
         <source>32 px. Large 0</source>
-        <translation>32 像素. 粗略 0</translation>
+        <translation>32 像素. 稀疏 0</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="893"/>
         <source>28 px. Large 1</source>
-        <translation>28 像素. 粗略 1</translation>
+        <translation>28 像素. 稀疏 1</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="893"/>
         <source>24 px. Large 2</source>
-        <translation>24 像素. 粗略 2</translation>
+        <translation>24 像素. 稀疏 2</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="894"/>

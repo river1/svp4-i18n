@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en">
+<TS version="2.1" language="sr_RS">
 <context>
     <name>AboutDlg</name>
     <message>
         <location filename="aboutdlg.ui" line="98"/>
         <source>Funded with &lt;b&gt;Indiegogo&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Finansirano pomoću &lt;b&gt;Indiegogo&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="aboutdlg.ui" line="140"/>
         <source>Icons by &lt;b&gt;Icons8&lt;/b&gt;</source>
         <oldsource>Using icons from &lt;b&gt;Icons8&lt;/b&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ikonice od &lt;b&gt;Icons8&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="aboutdlg.ui" line="259"/>
         <source>This copy is registered!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova kopija je registrovana!</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="19"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <location filename="aboutdlg.ui" line="276"/>
         <source>Manage your license...</source>
         <oldsource>Manage your license.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Upravljanje licencom...</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="209"/>
         <source>Developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Developeri</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="209"/>
         <source>Special thanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebna zahvalnost</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="84"/>
         <source>Indiegogo Co-Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiegogo Ko-Autori</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="85"/>
         <source>Pre-Indiegogo donators</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-Indiegogo donatori</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="86"/>
         <source>Indiegogo Part of the Team members</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiegogo Članovi Tima</translation>
     </message>
     <message>
         <location filename="aboutdlg.cpp" line="87"/>
         <source>Indiegogo funders</source>
-        <translation type="unfinished"></translation>
+        <translation>Indiegogo finanseri</translation>
     </message>
 </context>
 <context>
@@ -66,42 +66,42 @@
     <message>
         <location filename="activationwnd.ui" line="26"/>
         <source>SVP - Registration</source>
-        <translation>SVP - Activation</translation>
+        <translation>SVP - Registracija</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="69"/>
         <source>Please register your copy of SVP 4.</source>
-        <translation>Please activate your copy of SVP 4.</translation>
+        <translation>Molimo registrujte Vašu kopiju SVP 4.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="81"/>
         <source>If you don&apos;t have registration key you can purchase it through &lt;a href=#&gt;our web site&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako nemate ključ za registraciju možete ga kupiti kroz &lt;a href=#&gt;naš web sajt&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="136"/>
         <source>Restore your license after OS re-installation or transfer it to another PC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povratite Vašu licencu nakon ponovne instalacije OS-a ili je prenesite na drugi PC.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="139"/>
         <source>Manage your license...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljanje licencom...</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="162"/>
         <source>E-mail address:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail adresa:</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="169"/>
         <source>Registration key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Registracioni ključ:</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="220"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoć</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="233"/>
@@ -121,12 +121,12 @@
     <message>
         <location filename="activationwnd.ui" line="369"/>
         <source>Register now!</source>
-        <translation>Activate now!</translation>
+        <translation>Registrujte se sad!</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="385"/>
         <source>An active Internet connection is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrebna je aktivna konekcija na internet.</translation>
     </message>
     <message>
         <location filename="activationwnd.ui" line="319"/>
@@ -141,32 +141,32 @@
     <message>
         <location filename="activationwnd.cpp" line="76"/>
         <source>Please wait for the activation server to respond...</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo sačekajte da aktivacioni server odgovori...</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="191"/>
         <source>Connection error, please try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška u konekciji, molimo pokušajte ponovo kasnije</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="196"/>
         <source>Invalid e-mail or registration key</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogrešan e-mail ili registracioni ključ</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="197"/>
         <source>Registration key isn&apos;t compatible with this SVP edition</source>
-        <translation type="unfinished"></translation>
+        <translation>Registracioni ključ nije kompatibilan sa ovom verzijom SVP-a</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="198"/>
         <source>Too many activations for the registration key</source>
-        <translation type="unfinished"></translation>
+        <translation>Previše aktivacija za ovaj registracioni ključ</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="199"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepoznata greška</translation>
     </message>
     <message>
         <location filename="activationwnd.cpp" line="202"/>
@@ -179,12 +179,12 @@
     <message>
         <location filename="allsettingswnd.ui" line="45"/>
         <source>All settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sva podešavanja</translation>
     </message>
     <message>
         <location filename="allsettingswnd.ui" line="79"/>
         <source>User defined options</source>
-        <translation type="unfinished"></translation>
+        <translation>Korisnički definisane opcije</translation>
     </message>
 </context>
 <context>
@@ -192,77 +192,77 @@
     <message>
         <location filename="benchmarkwnd.ui" line="26"/>
         <source>SVP - Assess system performance</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Procena performansi sistema</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="104"/>
         <source>We need to measure system performance in order to automatically detect the correct video profile settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrebno je da izmerimo performanse sistema kako bi automatski detektovali najbolja podešavanja video profila.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="118"/>
         <source>This will only take one minute, please close any performance consuming applications including web browser before proceeding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovo će trajati samo jedan minut, molimo zatvorite bilo koje aplikacije koje oduzimaju performanse uključujući web pretraživače pre nego što nastavite.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="145"/>
         <source>System load:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opterećenje sistema:</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="250"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokreni</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="266"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Preskoči</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="279"/>
         <source>Don&apos;t ask</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pitaj</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.ui" line="330"/>
         <source>Assessing now:</source>
-        <translation type="unfinished"></translation>
+        <translation>Procenjuje se:</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="26"/>
         <source>This is the first time you started SVP 4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ovo je prvi put da ste pokrenuli SVP 4.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="29"/>
         <source>System performance changed significantly since last test.</source>
-        <translation>System performance has changed significantly since last test.</translation>
+        <translation>Performanse sistema su se drastično promenile od poslednjeg testiranja.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="33"/>
         <source>Re-check system performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovo proverite performanse sistema.</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="43"/>
         <source>TOO HIGH</source>
-        <translation type="unfinished"></translation>
+        <translation>PREVELIKO</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="87"/>
         <source>motion vectors estimation</source>
-        <translation type="unfinished"></translation>
+        <translation>procena vektora pokreta</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="91"/>
         <source>CPU-based frame rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU-bazirano renderovanje frame-ova</translation>
     </message>
     <message>
         <location filename="benchmarkwnd.cpp" line="95"/>
         <source>GPU-based frame rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU-bazirano renderovanje frame-ova</translation>
     </message>
 </context>
 <context>
@@ -270,30 +270,30 @@
     <message>
         <location filename="blacklistitemwdg.ui" line="51"/>
         <source>Do not enable SVP in this video player</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne omogućuj SVP u ovom video plejeru</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="54"/>
         <source>Don&apos;t use</source>
         <oldsource>Do not use</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ne koristi</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="80"/>
         <source>Do not allow frame transformation (crop, resize and outer lighting)</source>
         <oldsource>Do not use any frame transforming features</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ne dozvoli transformaciju kadrova (sečenje, menjanje veličine i spoljno osvetljenje)</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="83"/>
         <source>Don&apos;t change size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne menjati veličinu</translation>
     </message>
     <message>
         <location filename="blacklistitemwdg.ui" line="109"/>
         <source>Enable all SVP features in this video player</source>
         <oldsource>Enable SVP in this video player</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Omogući sve SVP mogućnosti u ovom video plejeru</translation>
     </message>
 </context>
 <context>
@@ -301,52 +301,52 @@
     <message>
         <location filename="conditionwdg.ui" line="192"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="238"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <location filename="conditionwdg.ui" line="268"/>
         <source>Remove this condition</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni ovaj uslov</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="31"/>
         <source>Numeric value (integer)</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerička vrednost (celobrojna)</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="32"/>
         <source>Numeric value (floating point)</source>
-        <translation type="unfinished"></translation>
+        <translation>Numerička vrednost (sa pokretnim zarezom)</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="33"/>
         <source>Text string or a regular expression enclosed with &apos;\&apos; characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekst string ili običan iskaz opkružen &apos;\&apos; karakterima</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="55"/>
         <source>Less than</source>
-        <translation type="unfinished"></translation>
+        <translation>Manje od</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="56"/>
         <source>Greater than</source>
-        <translation type="unfinished"></translation>
+        <translation>Veće od</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="57"/>
         <source>Equal to</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednako</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="58"/>
         <source>Contains</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadrži</translation>
     </message>
 </context>
 <context>
@@ -354,77 +354,77 @@
     <message>
         <location filename="controlpanel.ui" line="14"/>
         <source>SVP - Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Kontrolna Tabla</translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="200"/>
         <source>Choose profile for an active video</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberite profil za aktivan video</translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="275"/>
         <source>CPU utilisation. Click to switch to SVP Index.</source>
-        <translation>CPU utilization. Click to switch to SVP Index.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="controlpanel.ui" line="355"/>
         <source>SVP Index. Click to switch to CPU utilisation.</source>
-        <translation>SVP Index. Click to switch to CPU utilization.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="178"/>
         <source>Video profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Video profili</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="185"/>
         <source>Frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>Veličina kadra</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="192"/>
         <source>Black bars lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Osvetljenje crnih traki</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="199"/>
         <source>Performance monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Posmatrač Performansi</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="206"/>
         <source>Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Nove verzije</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="149"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/R</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="213"/>
         <source>Report a problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Prijavite problem</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="220"/>
         <source>Events log</source>
-        <translation type="unfinished"></translation>
+        <translation>Dnevnik događaja</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="227"/>
         <source>Application settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanja aplikacije</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="234"/>
         <source>Control options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije kontrole</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="241"/>
         <source>Unlock SVP features</source>
-        <translation type="unfinished"></translation>
+        <translation>Otključajte sve SVP mogućnosti</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="248"/>
@@ -434,18 +434,18 @@
     <message>
         <location filename="controlpanel.cpp" line="254"/>
         <source>Help...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoć...</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="428"/>
         <source>No active playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema aktivne reprodukcije</translation>
     </message>
     <message>
         <location filename="controlpanel.cpp" line="443"/>
         <source>+%1 more</source>
         <oldsource>more</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>+%1 još</translation>
     </message>
 </context>
 <context>
@@ -453,107 +453,107 @@
     <message>
         <location filename="customoptionwnd.ui" line="34"/>
         <source>Following user-defined options will be exposed to the script at runtime.&lt;br&gt;&lt;b&gt;Please do not do anything here unless you really know why.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledeće korisnički-definisane opcije će biti izložene skripti u vreme izvršavanja.&lt;br&gt;&lt;b&gt;Molimo da ne dirate ovde ništa osim ako stvarno znate zašto.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="74"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="79"/>
         <source>Scope</source>
-        <translation type="unfinished"></translation>
+        <translation>Opseg</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="84"/>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednosti</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="97"/>
         <source>Add another option</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodajte opciju</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="110"/>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>Titl:</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="117"/>
         <source>My custom option</source>
-        <translation type="unfinished"></translation>
+        <translation>Moja opcija</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="124"/>
         <source>Script name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime skripte:</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="154"/>
         <source>Option scope:</source>
-        <translation type="unfinished"></translation>
+        <translation>Doseg opcije:</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="161"/>
         <source>FRC profile</source>
-        <translation type="unfinished"></translation>
+        <translation>FRC profil</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="171"/>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>Globalni</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="196"/>
         <source>Allowed values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozvoljene vrednosti:</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="205"/>
         <source>ON or OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>UKLJUČENO/ISKLJUČENO</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="215"/>
         <source>List:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista:</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="225"/>
         <source>either JSON array or simple object</source>
-        <translation type="unfinished"></translation>
+        <translation>ili JSON niz ili prost objekat</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="238"/>
         <source>Add option</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodajte opciju</translation>
     </message>
     <message>
         <location filename="customoptionwnd.ui" line="245"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Poništi</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="49"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključeno</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="49"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Uključeno</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="53"/>
         <source>SVP - User defined option</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Korisnički definisane opcije</translation>
     </message>
     <message>
         <location filename="customoptionwnd.cpp" line="53"/>
         <source>Invalid or duplicated name, or not valid values list provided.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevažeće ili duplikatno ime, ili snabdevena nevažeća lista.</translation>
     </message>
 </context>
 <context>
@@ -561,27 +561,27 @@
     <message>
         <location filename="daumvideoplayer.cpp" line="180"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pristup video plejeru je odbijen. Da li je pokrenut sa administratorskim privilegijama?</translation>
     </message>
     <message>
         <location filename="daumvideoplayer.cpp" line="208"/>
         <source>64-bit SVP engine is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>64-bitni SVP engine nije instaliran</translation>
     </message>
     <message>
         <location filename="daumvideoplayer.cpp" line="209"/>
         <source>32-bit SVP engine is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bitni SVP engine nije instaliran</translation>
     </message>
     <message>
         <location filename="daumvideoplayer.cpp" line="247"/>
         <source>Unable to locate Avisynth, please re-install it</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisynth nije nađen, molimo instalirajte ga ponovo</translation>
     </message>
     <message>
         <location filename="daumvideoplayer.cpp" line="260"/>
         <source>Legacy Avisynth 2.5 is not supported, please use either Avisynth 2.6 or Avisynth+</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Avisynth 2.5 nije podržan, molimo koristite ili Avisynth 2.6 ili Avisynth+</translation>
     </message>
 </context>
 <context>
@@ -589,32 +589,32 @@
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="57"/>
         <source>Access to the video player is denied. Is it running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pristup video plejeru je odbijen. Da li je pokrenut sa administratorskim privilegijama?</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="86"/>
         <source>64-bit SVP engine is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>64-bitni SVP engine nije instaliran</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="87"/>
         <source>32-bit SVP engine is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>32-bitni SVP engine nije instaliran</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="111"/>
         <source>Unable to locate Avisynth, please re-install it</source>
-        <translation type="unfinished"></translation>
+        <translation>Avisynth nije nađen, molimo instalirajte ga ponovo</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="124"/>
         <source>Legacy Avisynth 2.5 is not supported, please use either Avisynth 2.6 or Avisynth+</source>
-        <translation type="unfinished"></translation>
+        <translation>Legacy Avisynth 2.5 nije podržan, molimo koristite ili Avisynth 2.6 ili Avisynth+</translation>
     </message>
     <message>
         <location filename="ffdshowvideoplayer.cpp" line="140"/>
         <source>Error communicating with the video player. Maybe SVP is running with administrator privileges?</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška pri komunikaciji sa video plejerom. Možda je SVP pokrenut sa administratorskim privilegijama?</translation>
     </message>
 </context>
 <context>
@@ -622,139 +622,139 @@
     <message>
         <location filename="framecontrolwnd.ui" line="104"/>
         <source>Crop video frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Iseci video kadar</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="138"/>
         <location filename="framecontrolwnd.ui" line="483"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="172"/>
         <source>To screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Po ekranu</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="206"/>
         <source>75%</source>
-        <translation type="unfinished"></translation>
+        <translation>75%</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="240"/>
         <source>50%</source>
-        <translation type="unfinished"></translation>
+        <translation>50%</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="259"/>
         <source>Fixed aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiksiran odnos mera</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="49"/>
         <source>Black bars detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Detekcija crnih traka</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="78"/>
         <source>Force re-detect black bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Forsirajte ponovnu detekciju crnih traka</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="449"/>
         <source>Alter video frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmenite veličinu video kadra</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="500"/>
         <source>Decrease video size if it&apos;s larger than the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Umanjite veličinu videa ako je veći od ekrana</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="520"/>
         <source>Decrease&lt;br/&gt;to screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Umanji&lt;br/&gt; prema&lt;br/&gt; ekranu</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="540"/>
         <source>Decrease to 720p for better performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Umanjite na 720p za bolje performanse</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="560"/>
         <source>Decrease&lt;br/&gt;to HD</source>
-        <translation type="unfinished"></translation>
+        <translation>Umanjite&lt;br/&gt; na HD</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="580"/>
         <source>Resize any video to the screen size</source>
-        <translation type="unfinished"></translation>
+        <translation>Promenite veličinu bilo kod videa na veličinu ekrana</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="600"/>
         <source>Resize&lt;br/&gt;to screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Promeni&lt;br/&gt; prema ekranu</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="632"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Kratak pregled</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="676"/>
         <source>No active video</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema aktivnog videa</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.ui" line="731"/>
         <source>Preview and fine tuning</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregled i fino podešavanje</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="88"/>
         <source>Tracking mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim praćenja</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="89"/>
         <source>One time only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo jedanput</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="91"/>
         <source>Long press to choose black bars detection mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Pritisnite dugo da izaberete režim detekcije crnih traka</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="512"/>
         <source>Fields:</source>
-        <translation type="unfinished"></translation>
+        <translation>Polja:</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="512"/>
         <source>Vert: %1 - %2, Hor: %3 - %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Vert: %1 - %2, Hor: %3 - %4</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="516"/>
         <source>Crop to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Iseci prema:</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="517"/>
         <location filename="framecontrolwnd.cpp" line="525"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>none</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="520"/>
         <source>Fine tuning:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fino podešavanje:</translation>
     </message>
     <message>
         <location filename="framecontrolwnd.cpp" line="524"/>
         <source>Scale to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaliraj prema:</translation>
     </message>
 </context>
 <context>
@@ -762,57 +762,57 @@
     <message>
         <location filename="lightcontrolwnd.ui" line="50"/>
         <source>No outer lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez spoljnog svetla</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="86"/>
         <source>Fill black bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Popuni trake</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="120"/>
         <source>Glow light</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlo sjaja</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="145"/>
         <source>Enable for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući samo za reprodukciju preko celog ekrana</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="230"/>
         <source>Preview light pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregledaj šablon svetla</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="242"/>
         <source>Add new pattern...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj novi šablon...</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="316"/>
         <source>Light intencity</source>
-        <translation type="unfinished"></translation>
+        <translation>Intenzitet svetla</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="382"/>
         <source>Capture depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Uhvati dubinu</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="416"/>
         <source>Number of lights</source>
-        <translation type="unfinished"></translation>
+        <translation>Broj svetala</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.ui" line="441"/>
         <source>Light width</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina svetla</translation>
     </message>
     <message>
         <location filename="lightcontrolwnd.cpp" line="287"/>
         <source>New pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Novi šablon</translation>
     </message>
 </context>
 <context>
@@ -820,22 +820,22 @@
     <message>
         <location filename="lightpatternwdg.ui" line="92"/>
         <source>Rename this pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimenuj ovaj šablon</translation>
     </message>
     <message>
         <location filename="lightpatternwdg.ui" line="141"/>
         <source>Delete this pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Obriši ovaj šablon</translation>
     </message>
     <message>
         <location filename="light_widgets.cpp" line="111"/>
         <source>SVP - Light pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Šablon svetla</translation>
     </message>
     <message>
         <location filename="light_widgets.cpp" line="111"/>
         <source>Are you sure you want to delete this pattern?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste sigurni da želite da obrišete ovaj šablon?</translation>
     </message>
 </context>
 <context>
@@ -843,28 +843,28 @@
     <message>
         <location filename="logwnd.ui" line="81"/>
         <source>All events</source>
-        <translation type="unfinished"></translation>
+        <translation>Svi događaji</translation>
     </message>
     <message>
         <location filename="logwnd.ui" line="91"/>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Upozorenja</translation>
     </message>
     <message>
         <location filename="logwnd.ui" line="98"/>
         <source>Critical errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kritčne greške</translation>
     </message>
     <message>
         <location filename="logwnd.ui" line="118"/>
         <source>Open as a text file...</source>
         <oldsource>Text file...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Otvori kao tekst fajl...</translation>
     </message>
     <message>
         <location filename="logwnd.cpp" line="31"/>
         <source>Copy...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj...</translation>
     </message>
 </context>
 <context>
@@ -872,17 +872,17 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="50"/>
         <source>Path to mpv&apos;s JSON IPC socket (refer to --input-ipc-server mpv option)</source>
-        <translation type="unfinished"></translation>
+        <translation>Putanja ka mpv-ovom JSON IPC socket (uputite se na --input-ipc-server mpv option)</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="61"/>
         <source>Path to the external video player to execute</source>
-        <translation type="unfinished"></translation>
+        <translation>Putanja ka spoljnom video plejeru za izvršenje</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="63"/>
         <source>External player&apos;s arguments separated with &apos;;&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumenti spoljnjeg plejera razdvojeni sa &apos;;&apos;</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="162"/>
@@ -892,7 +892,7 @@
     <message>
         <location filename="mpvvideoplayer.cpp" line="166"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otvori</translation>
     </message>
     <message>
         <location filename="mpvvideoplayer.cpp" line="168"/>
@@ -906,88 +906,88 @@
     <message>
         <location filename="performancewnd.ui" line="44"/>
         <source>SVP Index</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP Indeks</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="51"/>
         <source>High frame rate index</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeks visokog frame rate-a</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="111"/>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>CPU</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="155"/>
         <source>% Utilisation</source>
-        <translation>% Utilization</translation>
+        <translation>% Upotrebe</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="224"/>
         <source>Memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memorija</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="250"/>
         <source>Video player memory usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Korišćenje memorije od strane video plejera</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="340"/>
         <source>Scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Premotaj</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="375"/>
         <source>Scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaliraj</translation>
     </message>
     <message>
         <location filename="performancewnd.ui" line="403"/>
         <location filename="performancewnd.cpp" line="137"/>
         <source>NOW</source>
-        <translation type="unfinished"></translation>
+        <translation>TRENUTNO</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="57"/>
         <source>%1 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="63"/>
         <source>%1 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="115"/>
         <source>GB</source>
-        <translation type="unfinished"></translation>
+        <translation>GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="209"/>
         <source>%1% of %2 GHz</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% of %2 GHz</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="230"/>
         <source>%1 GB of %2 GB</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 GB of %2 GB</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="249"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije Raspoloživo</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="264"/>
         <source>Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezgra</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="264"/>
         <source>Overall</source>
-        <translation type="unfinished"></translation>
+        <translation>Uopšteno</translation>
     </message>
 </context>
 <context>
@@ -995,60 +995,60 @@
     <message>
         <location filename="playbackobject.cpp" line="52"/>
         <source>2D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>2D režim</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="54"/>
         <source>3D: Side-by-side stereo pair</source>
         <oldsource>3D: Horizontal stereo pair</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>3D: Horizontalni par</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="53"/>
         <source>3D: Over-under stereo pair</source>
         <oldsource>3D: Vertical stereo pair</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>3D: Vertikalni par</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="72"/>
         <source>SVP - 4GB aware patch</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - 4GB-svesnost zakrpa</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="73"/>
         <source>Your video player isn&apos;t 4GB aware, it&apos;s highly recommended to patch it before using with SVP.
 Please close video player before pressing &apos;Patch&apos; button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaš video plejer nije svestan 4GB RAM-a, izuzetno je preporučljivo da ga zakrpite pre korišćenja SVP-a.</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="74"/>
         <source>Patch</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakrpi</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="74"/>
         <source>Not now</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne sad</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="74"/>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne pitaj ponovo</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="261"/>
         <source>Playing at %1 fps</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodukucija pri %1 fps</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="263"/>
         <source>Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Pauzirano</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="264"/>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="266"/>
@@ -1059,28 +1059,29 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="287"/>
         <source>SVP: enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP: uključen</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="288"/>
         <source>SVP: disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP: isključen</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="927"/>
         <source>Black bars: </source>
-        <translation type="unfinished"></translation>
+        <translation>Crne trake: </translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="933"/>
         <source>SVP: playing at %1
 %2%3</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP: Reprodukucija pri %1
+%2%3</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="953"/>
         <source>SVP: adjusting frame size</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP: prilagodjavanje veličine kadra</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="1024"/>
@@ -1090,7 +1091,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="1041"/>
         <source>You&apos;re using not compatible Avisynth version! SVP won&apos;t work with it, please use &apos;avisynth.dll&apos; located in &lt;SVP-installation-path&gt;\plugins folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne koristite kompatibilnu verziju Avisynth-a! SVP neće raditi, molimo koristite &apos;avisynth.dll&apos; lociran u &lt;SVP-installation-path&gt;\plugins folderu.</translation>
     </message>
     <message>
         <location filename="playbackobject.cpp" line="1048"/>
@@ -1100,7 +1101,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="playbackobject.cpp" line="1422"/>
         <source>Other profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostali profili</translation>
     </message>
 </context>
 <context>
@@ -1108,159 +1109,159 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.ui" line="71"/>
         <source>List all video profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Izlistaj sve video profile</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="131"/>
         <source>Modify profile title</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmeni titl profila</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="154"/>
         <source>Add a new video profile as a copy of current one</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj novi video profil kao kopiju treutnog</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="157"/>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov...</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="211"/>
         <source>Delete profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši profil</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="262"/>
         <source>Do frame rate conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Radi konverziju frame rate-a</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="278"/>
         <source>Completely disable SVP</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompletno onemogućiti SVP</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="333"/>
         <source>To screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Prema ekranu</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="362"/>
         <source>Movie ×2</source>
-        <translation>Movie ×2</translation>
+        <translation>Film x2</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="391"/>
         <source>Movie ×2.5</source>
         <oldsource>Movie ×3</oldsource>
-        <translation>Movie ×2½</translation>
+        <translation>Film ×2.5</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="423"/>
         <source>Other target frame rates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Drugi ciljni frame rate...</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="482"/>
         <source>Automatic options selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski izbor opcija</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="543"/>
         <source>Higher performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Bolje performanse</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="567"/>
         <source>Higher quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Bolji kvalitet</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="557"/>
         <source>OPTIMAL</source>
-        <translation type="unfinished"></translation>
+        <translation>OPTIMALNO</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="659"/>
         <source>Optimized for</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimizovati za</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="683"/>
         <source>Film</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="712"/>
         <source>Animation</source>
-        <translation type="unfinished"></translation>
+        <translation>Animaciju</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="765"/>
         <source>Artifacts masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskiranje artifakta</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="789"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation>Nisko</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="818"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Srednje</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="847"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation>Visoko</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="955"/>
         <source>Add new condition for applying this profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj novi uslov za primenjivanje ovog profila</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="958"/>
         <source>Apply this profile IF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeni ovaj profil AKO...</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="1000"/>
         <source>All changes are auto-saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Sve promene su automatski sačuvane</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="1010"/>
         <source>Revert all recent changes made to this profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Vratite sve nedavne promene izvršene nad ovim profilom</translation>
     </message>
     <message>
         <location filename="profilewnd.ui" line="1013"/>
         <source>Revert</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrati</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="248"/>
         <source>Movie frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Frame rate filma</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="253"/>
         <source>Screen refresh rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Osvežavanje ekrana</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="257"/>
         <source>Fixed frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiksan frame rate</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="258"/>
         <location filename="profilewnd.cpp" line="618"/>
         <source>fps</source>
-        <translation type="unfinished"></translation>
+        <translation>fps</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="268"/>
@@ -1270,47 +1271,47 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profilewnd.cpp" line="429"/>
         <source>SVP - Video profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Video profili</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="429"/>
         <source>Are you sure you want to delete this profile?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste sigurni da želite da izbrišete ovaj profil?</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="551"/>
         <source>Rendering options</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendering opcije</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="555"/>
         <source>Motion vectors options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcije vektora pokreta</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="559"/>
         <source>Miscellaneous options</source>
-        <translation type="unfinished"></translation>
+        <translation>Razne opcije</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="617"/>
         <source>Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Film</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="617"/>
         <source>Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekran</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="618"/>
         <source>Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Fiksno</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="671"/>
         <source>User defined options</source>
-        <translation type="unfinished"></translation>
+        <translation>Korisnički definisane opcije</translation>
     </message>
 </context>
 <context>
@@ -1318,58 +1319,58 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="main.cpp" line="294"/>
         <source>SVP - error</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - greška</translation>
     </message>
     <message>
         <location filename="main.cpp" line="294"/>
         <source>Please close SVP 3.1 Manager first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Molimo prvo zatvorite SVP 3.1 Manager.</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="110"/>
         <source>Show per-core CPU usage in Performance Monitor window</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži CPU upotrebu po jezgru u prozoru Posmatrača Performansi</translation>
     </message>
     <message>
         <location filename="performancewnd.cpp" line="117"/>
         <source>Performance graphs time scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafik performansi skala vremena</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="41"/>
         <source>Copy of </source>
-        <translation type="unfinished"></translation>
+        <translation>Kopija </translation>
     </message>
     <message>
         <location filename="profile.cpp" line="580"/>
         <source>Frame area</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblast kadra</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="581"/>
         <source>Source frame area</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvorišna oblast kadra</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="582"/>
         <source>Frame width</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina kadra</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="583"/>
         <source>Frame height</source>
-        <translation type="unfinished"></translation>
+        <translation>Visina kadra</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="584"/>
         <source>Video frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Video frame rate</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="585"/>
         <source>Is network stream</source>
         <oldsource>Is stream</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Je stream sa mreže</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="586"/>
@@ -1379,12 +1380,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="587"/>
         <source>Is stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Je stereo</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="588"/>
         <source>Is interlaced</source>
-        <translation type="unfinished"></translation>
+        <translation>Je interlaced</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="589"/>
@@ -1394,37 +1395,37 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="590"/>
         <source>File name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime fajla</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="591"/>
         <source>File extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Fajl ekstenzija</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="592"/>
         <source>Full file path</source>
-        <translation type="unfinished"></translation>
+        <translation>Puna putanja fajla</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="593"/>
         <source>Video codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Video codec</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="594"/>
         <source>Color depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Dubina boja</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="595"/>
         <source>Is on battery</source>
-        <translation type="unfinished"></translation>
+        <translation>Je na bateriji</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="596"/>
         <source>Expert: add scores</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekspert: dodaj rezultate</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="597"/>
@@ -1439,73 +1440,73 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="profile.cpp" line="636"/>
         <source>Mpix</source>
-        <translation type="unfinished"></translation>
+        <translation>Mpix</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="638"/>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="639"/>
         <source>fps</source>
-        <translation type="unfinished"></translation>
+        <translation>fps</translation>
     </message>
     <message>
         <location filename="profile.cpp" line="640"/>
         <source>bits</source>
-        <translation type="unfinished"></translation>
+        <translation>bitovi</translation>
     </message>
     <message>
         <location filename="profilescollection.cpp" line="24"/>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Autkomasko</translation>
     </message>
     <message>
         <location filename="profilescollection.cpp" line="30"/>
         <source>Default pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrazumevani šablon</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="386"/>
         <source>Last edited FRC profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslednje izmenjen FRC profil</translation>
     </message>
     <message>
         <location filename="profilewnd.cpp" line="757"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Posebno izardjeno</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="53"/>
         <source>If we&apos;re running in portable mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako smo pokrenuti u portabilnom režimu</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="54"/>
         <source>Directory to store all the settings and log files</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktorijum za skladištenje svih fajlova podešavanja i dnevnika</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="55"/>
         <source>Last generated AVS script</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslednji generisan AVS skript</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="57"/>
         <source>Whether to place SVP icon into system tray or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li da se postavi SVP ikonica &apos;dole desno&apos; ili ne</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="58"/>
         <source>User interface language</source>
         <oldsource>User interface complexity</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Jezik korisničkog interfejsa</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="61"/>
         <source>Time of last successful check</source>
-        <translation type="unfinished"></translation>
+        <translation>Vreme poslednje uspešne provere</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="63"/>
@@ -1515,83 +1516,83 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="66"/>
         <source>Turn off and then on when fast forward or rewind actions occured to minimize freezing</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi pa uključi kada se premotava ako bi se smanjilo kočenje</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="67"/>
         <source>How far should be the next frame for the seek to be detected, in seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Koliko daleko treba sledeći frame da bude da premotavanje ne bude detektovano, u sekundama</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="69"/>
         <source>Alter video player process priority</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmeni prioritet video plejer procesa</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="71"/>
         <source>How to handle multiple videos running at the same time</source>
-        <translation type="unfinished"></translation>
+        <translation>Kako rukovati sa više videa koji rade u isto vreme</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="73"/>
         <source>Assume that interlaced videos has doubled frame rate after de-interlacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretpostavi da interlaced videi imaju dupli frame rate nakon de-interlacer-a</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="74"/>
         <source>Automatically turn on stereo mode for videos with either too big or too small aspect ratio value</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski uključi stereo režim za video klipove sa ili prevelikim ili premalim vrednostima odnosa veličina</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="76"/>
         <source>Delay to help ReClock to detected the video frame rate, in milliseconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakašnjenje u milisekundama, kako bi ReClock imao vremena da detektuje video frame rate</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="78"/>
         <source>Clips shorter than this value in seconds will be ignored</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipovi kraći od ove vrednosti u sekundama će biti ignorisani</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="80"/>
         <location filename="trayicon.cpp" line="81"/>
         <source>Measured CPU performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmerene CPU performanse</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="83"/>
         <source>How many times SVP Manager was started</source>
-        <translation type="unfinished"></translation>
+        <translation>Koliko puta SVP Manager je pokrenut</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="84"/>
         <source>How many videos was viewed with SVP</source>
-        <translation>How many videos were viewed with SVP</translation>
+        <translation>Koliko video klipova je pregledano uz SVP</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="86"/>
         <source>ID of GPU device using for FRC computations</source>
-        <translation type="unfinished"></translation>
+        <translation>ID grafičke karte koja se koristi za FRC izračunavanja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="87"/>
         <source>Number of CPU computation threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Broj niti koje se koriste za CPU izračunavanje</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="88"/>
         <source>Max relative difference between screen and target refresh rates</source>
-        <translation type="unfinished"></translation>
+        <translation>Max relativna razlika između ekrana i ciljnog refresh rate-a</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="89"/>
         <source>Max source FPS that will be processed by the FRC engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Max izvorni FPS koji će biti procesuiran od stranje FRC engine-a</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="90"/>
         <source>Align video frame width to the multiple of 4 or 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Poravnaj širinu video kadra sa umnoškom 4-vorke ili 8-ice</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="91"/>
@@ -1606,17 +1607,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="96"/>
         <source>Don&apos;t ask for applying 4GB aware patch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne traži primenjivanje 4GB-svesnost zakrpe</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="98"/>
         <source>Don&apos;t ask about system performance assessment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne traži procenu performansi sistema</translation>
     </message>
     <message>
         <location filename="fontsize.cpp" line="15"/>
         <source>Fonts scaling factor [1.0-2.0]</source>
-        <translation type="unfinished"></translation>
+        <translation>Faktor skaliranja fontova [1.0-2.0]</translation>
     </message>
 </context>
 <context>
@@ -1624,117 +1625,117 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.ui" line="57"/>
         <source>Don&apos;t use SVP in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne koristi SVP kod</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="69"/>
         <source>Add active</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj aktivan</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="94"/>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadji...</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="179"/>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Prečice na tastaturi</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="197"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Uključeno</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="237"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključeno</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="293"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcija</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="298"/>
         <source>Key sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekvenca tastera</translation>
     </message>
     <message>
         <location filename="remotewnd.ui" line="334"/>
         <source>External control via HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoljna kontrola pomoću HTTP</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="66"/>
         <source>Choose application</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi aplikaciju</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="95"/>
         <source>Whether keyboard shorcuts are in use or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li se prečice na tastaturi koriste ili ne</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="119"/>
         <source>Whether remote API is in use or not</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li se remote API koristi ili ne</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="120"/>
         <source>Remote API TCP port number</source>
-        <translation type="unfinished"></translation>
+        <translation>broj porta remote API TCP-as</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="158"/>
         <source>Listening on port &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;click here to view help page&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Osluškivanje na portu &lt;b&gt;%1&lt;/b&gt;, &lt;a href=#&gt;kliknite ovde za pomoć&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="159"/>
         <source>Error listening on port &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška pri osluškivanju na portu &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="204"/>
         <source>Enable/disable SVP</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući/Onemogući SVP</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="207"/>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodukcija</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="211"/>
         <source>Edit active video profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmeni aktivni video profil</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="213"/>
         <source>Cycle to the next video profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledeći video profil</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="216"/>
         <source>Toggle outer lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi/Uključi spoljno osvetljenje</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="218"/>
         <source>Cycle to the next lighting pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledeći šablon</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="221"/>
         <source>Toggle black bars detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi/Uključi detekciju crnih traka</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="222"/>
         <source>Force re-detect black bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Primorati ponovnu detekciju crnih traka</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="224"/>
@@ -1744,27 +1745,27 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="remotewnd.cpp" line="226"/>
         <source>Toggle 3D stereo mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi/Uključi 3D stereo režim</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="229"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Instrumenti</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="233"/>
         <source>Open Performance Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori Posmatrač Performansi</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="234"/>
         <source>Toggle fluency and tearing test</source>
-        <translation type="unfinished"></translation>
+        <translation>Isključi/Uključi test tečnosti i cepanja</translation>
     </message>
     <message>
         <location filename="remotewnd.cpp" line="242"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekstenzije</translation>
     </message>
 </context>
 <context>
@@ -1772,114 +1773,114 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="reportwnd.ui" line="35"/>
         <source>Describe the problem and/or your suggestion here (mandatory)</source>
-        <translation type="unfinished"></translation>
+        <translation>Opišite Vaš problem i/ili Vašu sugestiju ovde (obavezno)</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="50"/>
         <source>I&apos;d like to get reply to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Želim da dobijem odgovor na:</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="63"/>
         <source>e-mail address (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>e-mail adresa (opciono)</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="88"/>
         <source>Attach images:</source>
-        <translation type="unfinished"></translation>
+        <translation>Priloži slike:</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="98"/>
         <source>%1 images max&lt;br&gt;%2 MB each</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 slika max&lt;br&gt;%2 MB svaka</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="148"/>
         <source>Browse for an image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadji sliku...</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="179"/>
         <source>Other information that will be included in the report:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostale informacije koje će biti uključene u izveštaj:</translation>
     </message>
     <message>
         <location filename="reportwnd.ui" line="266"/>
         <source>Post report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Objavi izveštaj...</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="38"/>
         <source>Remove this image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukloni ovu sliku</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="81"/>
         <source>Active log</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivan dnevnik</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="82"/>
         <source>Application settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanja aplikacije</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="83"/>
         <source>FRC profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>FRC profili</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="84"/>
         <source>Last AVS script</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslednja AVS skripta</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="85"/>
         <source>OpenCL system information</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenCL system informacije</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="87"/>
         <source>&apos;override&apos; script content</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadjačaj sadržaj skripte</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="89"/>
         <source>Performance data</source>
-        <translation type="unfinished"></translation>
+        <translation>Podaci o performansi</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="211"/>
         <location filename="reportwnd.cpp" line="239"/>
         <location filename="reportwnd.cpp" line="241"/>
         <source>Attach image(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Priloži sliku/e</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="239"/>
         <source>Some images ignored due to file size limitation (%1 MB max)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neke slike su ignorisane zbog ograničenja veličine fajla (%1 MB max)</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="241"/>
         <source>Unable to load some of images</source>
-        <translation type="unfinished"></translation>
+        <translation>Nije moguće učitati neke od slika</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="342"/>
         <source>Connecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezivanje...</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="374"/>
         <source>Sending... %1% (%2 KB/sec)</source>
-        <translation type="unfinished"></translation>
+        <translation>Slanje... %1% (%2 KB/sec)</translation>
     </message>
     <message>
         <location filename="reportwnd.cpp" line="387"/>
         <source>Error, try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>Greška, pokušajte ponovo kasnije</translation>
     </message>
 </context>
 <context>
@@ -1887,32 +1888,32 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="848"/>
         <source>Frames interpolation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Frames interpolation režim</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="850"/>
         <source>&quot;2m&quot; (min artifacts)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;2m&quot; (min artifakta)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="850"/>
         <source>&quot;1.5m&quot; (less artifacts)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;1.5m&quot; (manje artifakta)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="851"/>
         <source>&quot;1m&quot; (average mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;1m&quot; (prosečan režim)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="851"/>
         <source>Adaptive</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodiv</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="851"/>
         <source>Uniform (max fluidity)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uniforman (max tečnost)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="853"/>
@@ -1947,42 +1948,42 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="862"/>
         <source>SVP shader</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP shader</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="864"/>
         <source>1. Fastest (slow PCs)</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Najbrži (spori PC-jevi)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="864"/>
         <source>2. Sharp (anime)</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Oštar (anime)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="865"/>
         <source>10. By blocks (CPU only)</source>
-        <translation type="unfinished"></translation>
+        <translation>10. Po blokovima (samo CPU)</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="865"/>
         <source>11. Simple Lite</source>
-        <translation type="unfinished"></translation>
+        <translation>11. Jednostavan lagan</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="866"/>
         <source>21. Simple</source>
-        <translation type="unfinished"></translation>
+        <translation>21. Jednostavan</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="866"/>
         <source>13. Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>13. Standard</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="866"/>
         <source>23. Complicated</source>
-        <translation type="unfinished"></translation>
+        <translation>23. Komplikovan</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="868"/>
@@ -2027,52 +2028,52 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="891"/>
         <source>Motion vectors grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Mreža vektora pokreta</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="893"/>
         <source>32 px. Large 0</source>
-        <translation type="unfinished"></translation>
+        <translation>32 px. Veliko 0</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="893"/>
         <source>28 px. Large 1</source>
-        <translation type="unfinished"></translation>
+        <translation>28 px. Veliko 1</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="893"/>
         <source>24 px. Large 2</source>
-        <translation type="unfinished"></translation>
+        <translation>24 px. Veliko 2</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="894"/>
         <source>16 px. Average 0</source>
-        <translation type="unfinished"></translation>
+        <translation>16 px. Prosečno 0</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="894"/>
         <source>14 px. Average 1</source>
-        <translation type="unfinished"></translation>
+        <translation>14 px. Prosečno 1</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="894"/>
         <source>12 px. Average 2</source>
-        <translation type="unfinished"></translation>
+        <translation>12 px. Prosečno 2</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="895"/>
         <source>8 px. Small 0</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;8 px. Malo 0</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="895"/>
         <source>7 px. Small 1</source>
-        <translation type="unfinished"></translation>
+        <translation>7 px. Malo 1</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="895"/>
         <source>6 px. Small 2</source>
-        <translation type="unfinished"></translation>
+        <translation>6 px. Malo 2</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="897"/>
@@ -2082,24 +2083,24 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="901"/>
         <source>Decrease grid step</source>
-        <translation type="unfinished"></translation>
+        <translation>Smanji korak mreže</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="903"/>
         <location filename="settings.cpp" line="928"/>
         <location filename="settings.cpp" line="944"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućen</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="904"/>
         <source>By two with local refinement</source>
-        <translation type="unfinished"></translation>
+        <translation>Po dva sa lokalnim prečišćavanjem</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="904"/>
         <source>By two with global refinement</source>
-        <translation type="unfinished"></translation>
+        <translation>Po dva sa globalnim prečišćavanjem</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="906"/>
@@ -2109,18 +2110,18 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="910"/>
         <source>Search radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Radijus pretrage</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="912"/>
         <source>Small and fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Mali i brz</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="912"/>
         <location filename="settings.cpp" line="936"/>
         <source>Small</source>
-        <translation type="unfinished"></translation>
+        <translation>Mali</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="912"/>
@@ -2128,13 +2129,13 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="settings.cpp" line="936"/>
         <location filename="settings.cpp" line="945"/>
         <source>Average</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosečan</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="912"/>
         <location filename="settings.cpp" line="936"/>
         <source>Large</source>
-        <translation type="unfinished"></translation>
+        <translation>Veliki</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="914"/>
@@ -2149,22 +2150,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="919"/>
         <source>Motion vectors precision</source>
-        <translation type="unfinished"></translation>
+        <translation>Preciznost vektora pokreta</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="920"/>
         <source>Two pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Dva piksela</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="920"/>
         <source>One pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedan piksel</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="920"/>
         <source>Half pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Pola piksela</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="922"/>
@@ -2174,19 +2175,19 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="926"/>
         <source>Wide search</source>
-        <translation type="unfinished"></translation>
+        <translation>Široka pretraga</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="928"/>
         <location filename="settings.cpp" line="945"/>
         <source>Strong</source>
-        <translation type="unfinished"></translation>
+        <translation>Jako</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="928"/>
         <location filename="settings.cpp" line="945"/>
         <source>Strongest</source>
-        <translation type="unfinished"></translation>
+        <translation>Najjače</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="930"/>
@@ -2196,7 +2197,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="934"/>
         <source>Width of top coarse level</source>
-        <translation type="unfinished"></translation>
+        <translation>Širina najvišeg grubog nivoa</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="938"/>
@@ -2206,17 +2207,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="942"/>
         <source>Artifacts masking</source>
-        <translation type="unfinished"></translation>
+        <translation>Maskiranje artifakta</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="944"/>
         <source>Weakest</source>
-        <translation type="unfinished"></translation>
+        <translation>Najslabije</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="944"/>
         <source>Weak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slabo</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="947"/>
@@ -2236,17 +2237,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="953"/>
         <source>Processing of scene changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesiranje promena scene</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="954"/>
         <source>Blend adjacent frames</source>
-        <translation type="unfinished"></translation>
+        <translation>Blendiraj susedne frame-ove</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="954"/>
         <source>Repeat frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponovi frame</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="956"/>
@@ -2266,18 +2267,18 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="962"/>
         <source>Rendering device</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendering uređaj</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="963"/>
         <location filename="settings.cpp" line="975"/>
         <source>Do not change</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne menjati</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="963"/>
         <source>CPU only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo CPU</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="968"/>
@@ -2287,7 +2288,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settings.cpp" line="972"/>
         <source>Processing threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesirajuće niti</translation>
     </message>
     <message>
         <location filename="settings.cpp" line="978"/>
@@ -2300,43 +2301,43 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="settingswnd.ui" line="14"/>
         <source>SVP - All settings</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Sva podešavanja</translation>
     </message>
     <message>
         <location filename="settingswnd.ui" line="71"/>
         <source>Property name</source>
-        <translation type="unfinished"></translation>
+        <translation>Naziv osobine</translation>
     </message>
     <message>
         <location filename="settingswnd.ui" line="76"/>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost</translation>
     </message>
     <message>
         <location filename="settingswnd.ui" line="81"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="settingswnd.ui" line="114"/>
         <source>Modify these values at your own risk, read the manual first!</source>
         <oldsource>&lt;a href=&quot;#&quot;&gt;Modify these values at your own risk, read the manual first!&lt;/a&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Menjajte ove vrednosti na svoju odgovornost, pročitajte uputstvo prethodno!</translation>
     </message>
     <message>
         <location filename="settingswnd.cpp" line="60"/>
         <source>1. SVP Manager and general FRC engine options</source>
-        <translation type="unfinished"></translation>
+        <translation>1. SVP Manager i opšte FRC engine opcije</translation>
     </message>
     <message>
         <location filename="settingswnd.cpp" line="61"/>
         <source>2. Video profiles options</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Video profili opcije</translation>
     </message>
     <message>
         <location filename="settingswnd.cpp" line="62"/>
         <source>3. Outer light patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Šabloni spoljnjeg svetla</translation>
     </message>
 </context>
 <context>
@@ -2344,33 +2345,33 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="statuswnd.ui" line="130"/>
         <source>Choose profile for an active video</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi profil za aktivan video</translation>
     </message>
     <message>
         <location filename="statuswnd.ui" line="187"/>
         <source>Open SVP Control Panel</source>
         <oldsource>&lt;a href=#&gt;Open SVP Control Panel&lt;/a&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Otvori SVP Kontrolnu Tablu</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="124"/>
         <source>No active playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema aktivne reprodukcije</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="125"/>
         <source>1 active video</source>
-        <translation type="unfinished"></translation>
+        <translation>1 aktivan video</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="126"/>
         <source>%1 active videos</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 aktivna videa</translation>
     </message>
     <message>
         <location filename="statuswnd.cpp" line="130"/>
         <source>%1 inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nekativan</translation>
     </message>
 </context>
 <context>
@@ -2386,104 +2387,104 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="507"/>
         <source>Start with SVP with right click on the icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Počnite sa SVP-om desnim klikom na ikonicu</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="508"/>
         <source>Language was changed to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jezik je promenjen na %1</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="512"/>
         <source>This copy of SVP was successfully registered. Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ova kopija SVP-a je uspešno registrovana. Hvala!</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="518"/>
         <location filename="trayicon.cpp" line="1118"/>
         <source>Updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupna nova verzija</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="567"/>
         <source>No active playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Nema aktivne reprodukcije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="595"/>
         <source>SVP Control Panel</source>
-        <translation>SVP Control Panel</translation>
+        <translation>SVP Kontrolna Tabla</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="709"/>
         <source>Video frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Video kadar</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="712"/>
         <source>Detect and cut off black bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Detektuj i iseci crne trake</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="713"/>
         <source>Automated frame analysis for black bars inside the video frame and cutting them off</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatizovana analiza kadra za crne trake unutar video kadra i njihovo odsecanje</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="721"/>
         <source>Keep aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadrzi odnos mera</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="722"/>
         <source>Crop to the screen aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Iseci na odnos mera ekrana</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="724"/>
         <source>Frame cropping mode applied before any size changing</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim odsecanja kadra primenjen pre bilo kakvog menjanja veličine</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="729"/>
         <source>Keep normal size</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadrzi normalnu veličinu</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="730"/>
         <source>Decrease to screen size</source>
-        <translation type="unfinished"></translation>
+        <translation>Smanji na veličinu ekrana</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="732"/>
         <source>Decrease frame size to simplify frame rate conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Smanji veličinu kadra radi pojednostavljenja konverzije frame rate-a</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="737"/>
         <source>Advanced controls...</source>
-        <translation type="unfinished"></translation>
+        <translation>Napredne kontrole...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="743"/>
         <source>Outer lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoljnje svetlo</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="562"/>
         <location filename="trayicon.cpp" line="750"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućeno</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="746"/>
         <source>Fill black bars</source>
-        <translation type="unfinished"></translation>
+        <translation>Popuni crne trake</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="524"/>
         <source>Default configuration restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrazumevana podešavanja povraćena</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="525"/>
@@ -2493,12 +2494,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="694"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="695"/>
         <source>Video files</source>
-        <translation type="unfinished"></translation>
+        <translation>Video fajlove</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="696"/>
@@ -2508,12 +2509,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="716"/>
         <source>Whether to do the black bars analysis continously or one time only</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li da se vrši analiza crnih traka neprekidno ili samo jedanput</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="747"/>
         <source>Glow lights</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetla sjaja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="749"/>
@@ -2523,172 +2524,172 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="753"/>
         <source>Outer lighting mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim spoljnjeg osvetljenja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="756"/>
         <source>Glow border width</source>
-        <translation type="unfinished"></translation>
+        <translation>Debljina granice sjaja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="761"/>
         <source>Value of the maximum frame enlarge ratio due to outer lighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrednost odnosa maksimalnog povećanja okvira zbog spoljašnjeg osvetljenja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="764"/>
         <source>Minimum difference between frame and screen aspect ratios to turn lighting on</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalna razlika između kadra i odnosa mera ekrana za koje se uključuje osvetljenje</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="767"/>
         <source>Enabled in full screen only</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogućeno samo kada je preko celog ekrana</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="769"/>
         <source>Enable outer lighting for full screen playback only</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući spoljašnje osvetljenje samo za reprodukciju preko celog ekrana</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="781"/>
         <source>Delay to re-init lighting after full screen state change, ms</source>
-        <translation type="unfinished"></translation>
+        <translation>Kašnjenje da se ponovo inicijalizuje osvetljenje posle promenu stanja celog ekrana, ms</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="784"/>
         <source>Disabled in 3D mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Onemogućeno u 3D režimu</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="786"/>
         <source>Enable outer lighting only for 2D videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Omogući spoljašnje osvetljenje samo za 2D videoe</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="795"/>
         <source>Light patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Šabloni svetla</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="799"/>
         <source>Manage patterns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravljanje šablonima...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="810"/>
         <source>My options</source>
-        <translation type="unfinished"></translation>
+        <translation>Moje opcije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="817"/>
         <source>Temporarily disable SVP</source>
-        <translation type="unfinished"></translation>
+        <translation>Privremeno onemogući SVP</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="819"/>
         <source>SVP is disabled until next start</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP je onemogućen do sledećeg pokretanja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="821"/>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Instrumenti</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="823"/>
         <source>Performance Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Posmatrač Performansi</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="828"/>
         <source>Assess system performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Procenjivanje performansi sistema</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="837"/>
         <source>Demonstration mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim demonstracije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="838"/>
         <source>Fluency and tearing test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test tečnosti i cepanja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="850"/>
         <source>Apply 4GB aware patch...</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeni 4GB-svetnost zakrpu...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="853"/>
         <source>After pressing &apos;Continue&apos; browse for video player&apos;s main executable file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakon pritiskanja &apos;Nastavi&apos; nadji glavni exe video plejera.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="854"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavi</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="854"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Odustani</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="861"/>
         <source>SVP in VLC (replace &apos;deinterlace&apos; filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP u VLC (zameni &apos;deinterlace&apos; filter)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="872"/>
         <source>Additional programs and features...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatni programi i mogućnosti...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="881"/>
         <source>Application settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanja aplikacije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="886"/>
         <source>No acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ubrzanja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="891"/>
         <source>Using</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristeći</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="905"/>
         <source>GPU acceleration</source>
-        <translation type="unfinished"></translation>
+        <translation>GPU ubrzanje</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="909"/>
         <source>Why GPU acceleration isn&apos;t available?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zašto GPU ubrzanje nije dostupno?</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="916"/>
         <source>Show OSD messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži OSD poruke (poruke preko ekrana)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="918"/>
         <source>Edit keyboard shortcuts...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmeni prečice na tastaturi...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="926"/>
         <source>Load at Windows startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Učitaj pri pokretanju Windows-a</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="928"/>
         <source>Load at system startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Učitaj pri pokretanju Sistema-a</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="937"/>
@@ -2698,7 +2699,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="941"/>
         <source>Additional options</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatne opcije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="947"/>
@@ -2708,7 +2709,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="949"/>
         <source>Assume double frame rate for interlaced videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Pretpostavi dupli frame rate za interlaced videoe</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="945"/>
@@ -2718,42 +2719,42 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="951"/>
         <source>Turn stereo mode on by aspect ratio</source>
-        <translation>Determine stereo by aspect ratio</translation>
+        <translation>Uključi stereo režim pomoću odnosa mera</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="974"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatski</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="976"/>
         <source>%1 thread(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 nit/i</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="977"/>
         <source>Processing threads</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesirajuće niti</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="980"/>
         <source>Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekstenzije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1006"/>
         <source>User manual (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uputstvo (PDF)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1015"/>
         <source>Linux specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux specifične beleške</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1018"/>
         <source>Mac OS X specific notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Mac OS X specifične beleške</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1077"/>
@@ -2763,182 +2764,182 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="trayicon.cpp" line="1144"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoć</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1597"/>
         <source>SVP - Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Ekstenzije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1597"/>
         <source>We need to restart the Manager for the changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moramo da restartujemo Manager kako bi se poprimile promene.</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1700"/>
         <source>%1% off the Pro version</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% popusta na Pro verziju</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="954"/>
         <source>Reset on seek</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj na premotavanje</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="667"/>
         <source>Profile for an active video</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili za aktivan video</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="683"/>
         <source>Open file via mpv...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori pomoću mpv...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="852"/>
         <source>SVP - 4GB aware patch</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - 4GB-svesnost zakrpa</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="955"/>
         <source>Don&apos;t reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Nemoj resetovati</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="957"/>
         <source>Soft reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Soft reset</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="958"/>
         <source>Hard reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Hard reset</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="965"/>
         <source>Running multiple videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokretanje više videa</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="966"/>
         <source>Use SVP in all opened videos</source>
-        <translation type="unfinished"></translation>
+        <translation>Koristi SVP u svim otvorenim videima</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="967"/>
         <source>First opened video only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo za prvootvoreni video</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="968"/>
         <source>Latest opened video only</source>
-        <translation type="unfinished"></translation>
+        <translation>Samo za poslednje otvoren video</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="984"/>
         <source>Reset settings to defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj podešavanja na podrazumevana</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="986"/>
         <source>SVP - Configuration reset</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Resetovanje podešavanja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="986"/>
         <source>Do you really want to reset all SVP settings to default values?</source>
-        <translation type="unfinished"></translation>
+        <translation>Da li ste sigurni da želite da resetujete sva SVP podešavanja na podrazumevane vrednosti?</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="987"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="987"/>
         <source>Yes, but keep video profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Da, ali zadrži video profile</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="987"/>
         <source>Yes, reset all settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Da, resetuj sva podešavanja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="993"/>
         <source>All settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sva podešavanja...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1002"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1004"/>
         <source>User manual (online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uputstvo (online)</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1022"/>
         <source>Video player configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Podešavanje video plejera</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1043"/>
         <source>Full list</source>
-        <translation type="unfinished"></translation>
+        <translation>Puna lista</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1054"/>
         <source>Send problem report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pošalji izveštaj o problemu...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1059"/>
         <source>Events log</source>
-        <translation type="unfinished"></translation>
+        <translation>Dnevnik događaja</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1064"/>
         <source>Additional information</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatne informacije</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1067"/>
         <source>Last generated script</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslednji generisan skript</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1071"/>
         <source>OpenCL devices and capabilities</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenCL uređaji i sposobnosti</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1101"/>
         <source>Version and credits...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzija i zasluge...</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1107"/>
         <source>Order full version</source>
-        <translation type="unfinished"></translation>
+        <translation>Naruči full verziju</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1128"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Exit</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1345"/>
         <source>SVP - Video player</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP - Video plejer</translation>
     </message>
     <message>
         <location filename="trayicon.cpp" line="1345"/>
         <source>Unable to communicate with the video player. Check if it&apos;is running under different user account.</source>
-        <translation type="unfinished"></translation>
+        <translation>U nemogućnosti pri komunikaciji sa video plejerom. Proverite da li je pod različitim korisničkim nalogom.</translation>
     </message>
 </context>
 <context>
@@ -2946,22 +2947,22 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="419"/>
         <source>Intelligent video profiles selection based on multiple conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligentno biranje video profila prema različitim uslovima</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="34"/>
         <source>SVP 4 Pro features</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP 4 Napredne mogućnosti</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="76"/>
         <source>More &lt;a href=#&gt;video players&lt;/a&gt; - &lt;b&gt;mpv, Plex, VLC&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Još &lt;a href=#&gt;video plejera&lt;/a&gt; - &lt;b&gt;VLC, mpv, Plex&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="121"/>
         <source>&lt;a href=#&gt;SVPtube&lt;/a&gt; helps watching &lt;b&gt;online videos&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=#&gt;SVPtube&lt;/a&gt; pomaže pri gledanju &lt;b&gt;videa online&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="170"/>
@@ -2976,7 +2977,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="325"/>
         <source>Fully customizable &lt;a href=#&gt;video profiles&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Potpuno prilagodivi &lt;a href=#&gt;video profili&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="370"/>
@@ -2986,7 +2987,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="464"/>
         <source>Customizable &lt;a href=#&gt;outer lighting&lt;/a&gt; patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodivi šabloni &lt;a href=#&gt;spoljašnjeg osvetljenja&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="513"/>
@@ -3001,12 +3002,12 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="unlockwnd.ui" line="564"/>
         <source>You&apos;re eligible for &lt;b&gt;%1% discount&lt;/b&gt; on SVP 4 Pro!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvalifikujete se za &lt;b&gt;%1% popust&lt;/b&gt; na SVP 4 Pro!</translation>
     </message>
     <message>
         <location filename="unlockwnd.ui" line="590"/>
         <source>Order now!</source>
-        <translation type="unfinished"></translation>
+        <translation>Naručite sad!</translation>
     </message>
 </context>
 <context>
@@ -3014,37 +3015,37 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="updatewnd.cpp" line="396"/>
         <source>More info...</source>
-        <translation type="unfinished"></translation>
+        <translation>Više info...</translation>
     </message>
     <message>
         <location filename="updatewnd.cpp" line="95"/>
         <source>ver.</source>
-        <translation type="unfinished"></translation>
+        <translation>ver.</translation>
     </message>
     <message>
         <location filename="updatewnd.cpp" line="32"/>
         <source>Get updated package...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzmi ažuriran paket...</translation>
     </message>
     <message>
         <location filename="updatewnd.cpp" line="97"/>
         <source>plus %1 more update(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>plus još %1 ažuriranja</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="46"/>
         <source>Changes since last update:</source>
-        <translation type="unfinished"></translation>
+        <translation>Promene od prethodnog ažuriranja:</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="85"/>
         <source>View SVP changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvori SVP dnevnik promena</translation>
     </message>
     <message>
         <location filename="updatewnd.ui" line="111"/>
         <source>Install via SVP Maintenance tool...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instaliraj preko SVP Maintenace alatke...</translation>
     </message>
 </context>
 <context>
@@ -3062,7 +3063,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="138"/>
         <source>Choose the VLC executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Izaberi VLC exe</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="151"/>
@@ -3072,17 +3073,17 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
     <message>
         <location filename="vlcvideoplayer.cpp" line="220"/>
         <source>Operation failed. Check that SVP Manager has write access to &apos;%1&apos;.</source>
-        <translation>Operation failed. Check that SVP Manager has write access to &apos;%1&apos;.</translation>
+        <translation>Operacija neuspešna. Proverite da SVP Manager ima pristup pisanja na &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="222"/>
         <source>SVP support DISABLED, you can now use deinterlace filter in VLC.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP podrška ONEMOGUĆENA, sada možete koristiti deinterlace filter u VLC-u.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="223"/>
         <source>SVP support ENABLED but the deinterlace filter in VLC is not available any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP podrška OMOGUĆENA, ali deinterlace filter u VLC-u nije više raspoloživ.</translation>
     </message>
     <message>
         <location filename="vlcvideoplayer.cpp" line="226"/>
@@ -3096,7 +3097,7 @@ Please close video player before pressing &apos;Patch&apos; button.</source>
         <location filename="vlcvideoplayer.cpp" line="225"/>
         <location filename="vlcvideoplayer.cpp" line="226"/>
         <source>SVP in VLC</source>
-        <translation type="unfinished"></translation>
+        <translation>SVP u VLC-u</translation>
     </message>
 </context>
 </TS>
